@@ -1,1 +1,4 @@
-
+lagou:
+  message:hello, lagou,100
+mysql:
+  url:dev-http://localhost:3306/db100
